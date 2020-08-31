@@ -1,0 +1,7 @@
+
+testAddNote=true
+testFindAllByStatus=true
+testFindAll=true
+testDeleteNote=false
+testaddNoteBDD=false
+testaddNoteException=false
